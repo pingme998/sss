@@ -1,0 +1,22 @@
+curl 'https://proxy.dev-anaz.workers.dev/http/https://tribuntekno.com/10-cara-mengembalikan-foto-file-video-terhapus-di-android/' \
+  -H 'authority: proxy.dev-anaz.workers.dev' \
+  -H 'accept: */*' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'content-type: application/x-www-form-urlencoded' \
+  -H 'origin: https://proxy.dev-anaz.workers.dev' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://proxy.dev-anaz.workers.dev/?--ver=110&--mode=no-cors&--type=&origin=https%3A%2F%2Ftribuntekno.com&--aceh=1&referer=https%3A%2F%2Ftribuntekno.com%2F&cookie=PHPSESSID%3D8p9vn4rl8f022660pvm14f89tc%3B+_ga%3DGA1.2.1841609727.1625570822%3B+_gid%3DGA1.2.1961635241.1625570822%3B+_gat_gtag_UA_135031287_1%3D1&--level=1' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --data-raw '_wpnonce=f12a02021c&_wp_http_referer=%2F&userid=6909' \
+  --compressed ;
+curl 'https://proxy.dev-anaz.workers.dev/http/https://googleads.g.doubleclick.net/pagead/html/r20210630/r20190131/zrt_lookup.html' \
+  -H 'accept: */*' \
+  -H 'Referer: https://proxy.dev-anaz.workers.dev/?--ver=110&--mode=no-cors&--type=&origin=&--aceh=1&referer=https%3A%2F%2Ftribuntekno.com%2F10-cara-mengembalikan-foto-file-video-terhapus-di-android%2F&cookie=&--level=1' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://proxy.dev-anaz.workers.dev/conf.js' \
+  -H 'Referer: https://proxy.dev-anaz.workers.dev/sw.js' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed
