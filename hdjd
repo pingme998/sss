@@ -1,0 +1,111 @@
+curl 'https://tribuntekno.com/' \
+  -H 'authority: tribuntekno.com' \
+  -H 'cache-control: max-age=0' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'origin: null' \
+  -H 'content-type: application/x-www-form-urlencoded' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-dest: document' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: PHPSESSID=im91eq9gg56bo4g6cd30hdhmj1; _ga=GA1.2.608029640.1625544886; _gid=GA1.2.1949758360.1625544886' \
+  --data-raw '_wpnonce=f12a02021c&_wp_http_referer=%2F%3Fid%3DOGp2WkJYSm9nVjRkbmxSbXU0UGJYUEFZdkhVazN6MGVUdHRIdWNldDdjNWdHVkpXeTJyMFVzWlhZSXZzQkpxNHVVOUJwemZXY3Y0MWM4SEdiY0IvSDJjQXM2OFl3UVBpVUUxWUwzZjdwTFU9&userid=3678&lemmein=manual&post_location=https%3A%2F%2Ftribuntekno.com%2Fdaftar-laptop-lenovo-terbaru%2F' \
+  --compressed ;
+curl 'https://tribuntekno.com/wp-includes/css/dist/block-library/style.min.css?ver=5.7.2' \
+  -H 'Referer: https://tribuntekno.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://tribuntekno.com/wp-includes/css/dist/block-library/theme.min.css?ver=5.7.2' \
+  -H 'Referer: https://tribuntekno.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://tribuntekno.com/wp-content/themes/jannah/assets/css/base.min.css?ver=5.0.8' \
+  -H 'Referer: https://tribuntekno.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://tribuntekno.com/wp-content/themes/jannah/assets/css/style.min.css?ver=5.0.8' \
+  -H 'Referer: https://tribuntekno.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://tribuntekno.com/wp-content/themes/jannah/assets/css/widgets.min.css?ver=5.0.8' \
+  -H 'Referer: https://tribuntekno.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://tribuntekno.com/wp-content/themes/jannah/assets/css/helpers.min.css?ver=5.0.8' \
+  -H 'Referer: https://tribuntekno.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://tribuntekno.com/wp-content/themes/jannah/assets/css/fontawesome.css?ver=5.0.8' \
+  -H 'Referer: https://tribuntekno.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://tribuntekno.com/wp-content/themes/jannah/assets/ilightbox/dark-skin/skin.css?ver=5.0.8' \
+  -H 'Referer: https://tribuntekno.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://tribuntekno.com/wp-content/plugins/soralink/assets/css/css.css?ver=5.7.2' \
+  -H 'Referer: https://tribuntekno.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://tribuntekno.com/wp-content/plugins/jetpack/css/jetpack.css?ver=9.8.1' \
+  -H 'Referer: https://tribuntekno.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://tribuntekno.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' \
+  -H 'Referer: https://tribuntekno.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://tribuntekno.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' \
+  -H 'Referer: https://tribuntekno.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://tribuntekno.com/wp-includes/js/wp-emoji-release.min.js?ver=5.7.2' \
+  -H 'Referer: https://tribuntekno.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://cdn.fuseplatform.net/publift/tags/2/2101/fuse.js' \
+  -H 'Referer: https://tribuntekno.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js' \
+  -H 'Referer: https://tribuntekno.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://www.googletagmanager.com/gtag/js?id=UA-135031287-1' \
+  -H 'Referer: https://tribuntekno.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://tribuntekno.com/wp-content/uploads/Tribun-Tekno.png' \
+  -H 'Referer: https://tribuntekno.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://tribuntekno.com/wp-content/uploads/button_im-not-a-robot.png' \
+  -H 'Referer: https://tribuntekno.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://tribuntekno.com/wp-content/themes/jannah/assets/js/ad.js' \
+  -H 'Referer: https://tribuntekno.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://tribuntekno.com/wp-content/themes/jannah/assets/js/scripts.min.js?ver=5.0.8' \
+  -H 'Referer: https://tribuntekno.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://tribuntekno.com/wp-content/themes/jannah/assets/ilightbox/lightbox.js?ver=5.0.8' \
+  -H 'Referer: https://tribuntekno.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://tribuntekno.com/wp-content/themes/jannah/assets/js/desktop.min.js?ver=5.0.8' \
+  -H 'Referer: https://tribuntekno.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://tribuntekno.com/wp-includes/js/wp-embed.min.js?ver=5.7.2' \
+  -H 'Referer: https://tribuntekno.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed ;
+curl 'https://stats.wp.com/e-202127.js' \
+  -H 'Referer: https://tribuntekno.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36' \
+  --compressed
